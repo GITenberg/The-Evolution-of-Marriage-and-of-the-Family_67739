@@ -1,0 +1,34 @@
+_repo: The-Evolution-of-Marriage-and-of-the-Family_67739
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Letourneau, Ch. (Charles)
+    aliases:
+    - Letourneau, Charles
+    - Letourneau, Charles Jean Marie
+    birthdate: 1831
+    deathdate: 1902
+    gutenberg_agent_id: '50610'
+    url: http://www.gutenberg.org/2009/agents/50610
+    wikipedia:
+    - https://fr.wikipedia.org/wiki/Charles_Letourneau
+    - https://en.wikipedia.org/wiki/Charles_Letourneau
+description: ''
+gutenberg_issued: '2022-03-30'
+identifiers:
+  gutenberg: '67739'
+language: en
+pgterms:marc904: https://archive.org/details/evolutionofmarri00letorich
+pgterms:marc905: 20200222162242letourneau
+pgterms:marc906: '1891'
+pgterms:marc907: UK
+production_note: Turgut Dincer and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: UK :Walter Scott, Ltd.,1891.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Evolution of Marriage and of the Family
+url: http://www.gutenberg.org/ebooks/67739
